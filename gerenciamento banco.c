@@ -1,15 +1,3 @@
-/*********************************************************************/
-/**   ACH2001 - Introducao a Programacao                            **/
-/**   EACH-USP - Primeiro Semestre de 2021                          **/
-/**   <94> - <Luciano Digiampietri>                                 **/
-/**                                                                 **/
-/**   Quarto Exercicio-Programa                                     **/
-/**                                                                 **/
-/**   <Tamyris Ayumy Nascimento Onoda>        <12731401>            **/
-/**                                                                 **/
-/*********************************************************************/
-
-
 
 
 #include <stdio.h>
